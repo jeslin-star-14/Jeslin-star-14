@@ -3,16 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jeslin J. P. | Portfolio</title>
-  <!-- Load Particles.js for the interactive stars -->
+  <title>Jeslin J. P. | Full Stack Engineer</title>
+  
+  <!-- Particles.js for interactive star background -->
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  
   <style>
+    /* Base styling for the dark space theme */
     body {
       margin: 0;
       padding: 0;
       background-color: #050510; /* Deep space dark blue/black */
-      color: #ffffff;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      color: #e6e6e6;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
     }
     
     /* Interactive Background Layer */
@@ -29,90 +33,193 @@
       background: rgba(15, 15, 25, 0.85);
       border: 1px solid rgba(255, 255, 255, 0.1);
       border-radius: 15px;
-      max-width: 850px;
+      max-width: 900px;
       margin: 40px auto;
       padding: 40px;
       backdrop-filter: blur(10px);
       box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
     }
 
-    h1, h3 { text-align: center; margin-bottom: 10px; }
-    h1 { color: #ffffff; }
-    h3 { color: #a3a3a3; font-weight: normal; }
+    /* Typography */
+    h1 { color: #ffffff; text-align: center; margin-bottom: 5px; font-size: 2.5em; }
+    h3 { color: #8b949e; text-align: center; font-weight: 500; margin-top: 0; margin-bottom: 25px; }
+    h2 { 
+      color: #58a6ff; 
+      border-bottom: 1px solid #30363d; 
+      padding-bottom: 8px; 
+      margin-top: 35px; 
+      font-size: 1.5em;
+    }
+    h4 { color: #ffffff; margin-bottom: 10px; }
     
-    .center-content { text-align: center; margin: 20px 0; }
-    .badges img { margin: 0 5px; }
+    /* Layout Helpers */
+    .center-content { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0; }
+    .typing-svg { display: block; margin: 0 auto 20px auto; max-width: 100%; }
     
-    /* Typography formatting */
-    h2 { border-bottom: 1px solid #333; padding-bottom: 5px; margin-top: 30px; }
-    ul { line-height: 1.6; }
-    strong { color: #58a6ff; } /* GitHub blue for emphasis */
+    /* List Styling */
+    ul { padding-left: 20px; }
+    li { margin-bottom: 8px; }
+    strong { color: #ffffff; }
+
+    /* Badges */
+    .badge-container { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+    .badge-container img { height: 28px; }
+
+    /* GitHub Stats Images */
+    .stats-container { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px; }
+    .stats-container img { max-width: 100%; border-radius: 8px; }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .profile-card { margin: 20px; padding: 20px; }
+      h1 { font-size: 2em; }
+    }
   </style>
 </head>
 <body>
 
-  <!-- Background Stars -->
+  <!-- Background Stars Container -->
   <div id="particles-js"></div>
 
   <!-- Main Content Card -->
   <div class="profile-card">
+    
     <h1>Hi 👋, I'm Jeslin J. P.</h1>
     <h3>Full Stack Developer | Software Engineer | Freelancer</h3>
-    
-    <div class="center-content badges">
-      <a href="https://linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+    <!-- Interactive Typing SVG -->
+    <a href="https://git.io/typing-svg" style="text-decoration: none;">
+      <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;API+%26+Server+Expert;Available+for+Freelance;Building+Scalable+Solutions" alt="Typing SVG" />
+    </a>
+
+    <!-- Contact & Social Badges -->
+    <div class="center-content">
+      <a href="https://linkedin.com/in/jeslin-jp-9652b8371" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
       <a href="tel:+917538805407"><img src="https://img.shields.io/badge/Phone-+91_7538805407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="code for programming"/></a>
     </div>
 
     <h2>👨‍💻 About Me</h2>
+    <p>I am a <strong>Full Stack Developer and Software Engineer</strong> with a strong foundation in building responsive, database-driven web and mobile applications. As an active <strong>freelancer</strong>, I specialize in taking real-world client projects from initial requirements and UI/UX design all the way through backend integration, testing, and deployment.</p>
+    <p>I am <strong>highly proficient and experienced in designing RESTful APIs and managing backend servers</strong>, ensuring applications are scalable, secure, and performant from the ground up.</p>
+    
     <ul>
-      <li>High-level proficiency in <strong>API design</strong> and <strong>server management</strong>, ensuring scalable solutions.</li>
-      <li>Active <strong>Freelancer</strong> managing real-world client projects from UI/UX to final deployment.</li>
-      <li>Pursuing B.Tech in CSE at Karunya Institute of Technology and Sciences (2025–2029).</li>
-      <li>Running the programming YouTube channel <strong>code for programming</strong>.</li>
-      <li>Core tech: Java, Python, React, PostgreSQL.</li>
+      <li>🔭 <strong>Currently working on:</strong> Freelance full-stack projects, custom API development, and scalable web architectures.</li>
+      <li>🎓 <strong>Education:</strong> Pursuing a B.Tech in Computer Science and Engineering at Karunya Institute of Technology and Sciences (2025 – 2029, ID: URK25CS1108).</li>
+      <li>🎥 <strong>Content Creator:</strong> Running the programming YouTube channel <strong>code for programming</strong>.</li>
+      <li>🌱 <strong>Core Expertise:</strong> Java, Python, React, PostgreSQL, API Architecture, and Ubuntu-based server deployment.</li>
+      <li>💬 <strong>Ask me about:</strong> End-to-end application development, backend server setups, API integration, and freelance collaborations.</li>
     </ul>
 
     <h2>🛠️ Technical Arsenal</h2>
-    <p>
+    
+    <h4>Languages</h4>
+    <div class="badge-container">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    </div>
+
+    <h4>Frontend, Backend & APIs</h4>
+    <div class="badge-container">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> 
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
       <img src="https://img.shields.io/badge/REST_APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
-    </p>
+    </div>
+
+    <h4>Databases, Servers & Deployment</h4>
+    <div class="badge-container">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> 
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/> 
+      <img src="https://img.shields.io/badge/SSH_Deployment-%234D4D4E.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="SSH"/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </div>
+
+    <h2>💼 Experience & Freelance Work</h2>
+    <ul>
+      <li><strong>Freelance Full Stack Engineer</strong> <em>(Ongoing)</em> — Delivering custom web and mobile solutions, building highly efficient API architectures, and managing remote server deployments for clients.</li>
+      <li><strong>Java Full Stack Developer Intern</strong> @ CCS Info Tech <em>(May 2026)</em> — Integrated frontend systems with complex backend logic, including API integrations, in a professional enterprise environment.</li>
+      <li><strong>Mobile Application Developer Intern</strong> @ CodSoft <em>(Feb 2026 – Mar 2026)</em> — Engineered core mobile application functionalities and optimized UI performance.</li>
+    </ul>
 
     <h2>🚀 Featured Projects</h2>
     <ul>
-      <li><strong>ARK Kitchen:</strong> Full stack web application featuring custom API architecture and Ubuntu server deployment.</li>
-      <li><strong>ER Hospital Scheduling System:</strong> PostgreSQL-driven platform featuring complex backend logic and role-based access.</li>
+      <li><strong>ARK Kitchen (Full Stack Web App):</strong> Engineered a real-world client application with a robust Python backend and a highly responsive interface. Designed the underlying APIs and managed end-to-end Ubuntu server deployment via SSH.</li>
+      <li><strong>ER Hospital Scheduling System:</strong> Architected a PostgreSQL-driven scheduling platform featuring dedicated role-based workflows for Doctors, Nurses, and Patients, supported by scalable backend server logic.</li>
+      <li><strong>Smart India Hackathon:</strong> Developed a prototype for a rural offline learning platform aimed at students with unreliable internet access.</li>
+      <li><strong>Solar Cooker:</strong> Developed a solar cooker prototype using Arduino and integrated hardware components.</li>
     </ul>
+
+    <h2>📊 GitHub Analytics</h2>
+    <div class="stats-container">
+      <!-- Live GitHub stats using your username (jeslin-star-14) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=jeslin-star-14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslin-star-14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </div>
+
   </div>
 
-  <!-- Script to animate stars and make them react to the mouse -->
+  <!-- JavaScript for Twinkling Stars and Mouse Interaction -->
   <script>
     particlesJS("particles-js", {
       "particles": {
-        "number": { "value": 150 },
+        "number": {
+          "value": 160,          /* Number of stars */
+          "density": { "enable": true, "value_area": 800 }
+        },
         "color": { "value": "#ffffff" },
         "shape": { "type": "circle" },
-        "opacity": { 
-          "value": 1, 
-          "random": true, 
-          "anim": { "enable": true, "speed": 1, "opacity_min": 0.1, "sync": false } 
+        "opacity": {
+          "value": 1,
+          "random": true,
+          "anim": {
+            "enable": true,      /* Enables twinkling */
+            "speed": 1.5,
+            "opacity_min": 0.1,
+            "sync": false
+          }
         },
-        "size": { "value": 2.5, "random": true },
-        "line_linked": { "enable": false },
-        "move": { "enable": true, "speed": 0.5, "direction": "none", "out_mode": "out" }
+        "size": {
+          "value": 2.5,
+          "random": true,
+          "anim": { "enable": false }
+        },
+        "line_linked": { "enable": false }, /* Hides the connecting lines so they look like stars */
+        "move": {
+          "enable": true,
+          "speed": 0.3,          /* Slow natural drift */
+          "direction": "none",
+          "random": true,
+          "straight": false,
+          "out_mode": "out",
+          "bounce": false
+        }
       },
       "interactivity": {
+        "detect_on": "window",
         "events": {
-          "onhover": { "enable": true, "mode": "repulse" } /* Pushes stars away from mouse */
+          "onhover": {
+            "enable": true,
+            "mode": "repulse"    /* Makes stars move away when mouse pointer gets close */
+          },
+          "onclick": {
+            "enable": true,
+            "mode": "push"       /* Adds more stars if you click */
+          },
+          "resize": true
         },
         "modes": {
-          "repulse": { "distance": 100, "duration": 0.4 }
+          "repulse": {
+            "distance": 100,     /* Radius of mouse interaction */
+            "duration": 0.4
+          },
+          "push": {
+            "particles_nb": 4
+          }
         }
       },
       "retina_detect": true
