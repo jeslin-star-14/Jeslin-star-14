@@ -1,157 +1,259 @@
-<!-- Header banner -->
+<!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Jeslin%20J.%20P.&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Freelancer&descAlignY=58&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:5B3FD6,100:1FA89A&height=220&section=header&text=Jeslin%20J.%20P.&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Freelancer&descSize=18&descAlignY=58&animation=twinkling" alt="Jeslin J. P. - Full Stack Developer, Software Engineer, Freelancer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3ED9C7&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+solutions;RESTful+APIs+%7C+Ubuntu+Servers+%7C+SSH+Deployments;From+requirements+to+production;Open+for+freelance+collaborations" alt="Typing animation" />
+  <a href="https://github.com/jeslin-star-14">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3ED9C7&center=true&vCenter=true&width=720&height=40&lines=Full-stack+products+from+requirements+to+deployment;REST+APIs%2C+databases+and+Ubuntu+deployments;Responsive+interfaces+with+a+UI%2FUX+focus;Open+to+freelance+collaborations" alt="Rotating taglines: full-stack products, REST APIs and Ubuntu deployments, responsive UI/UX, open to freelance work" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="tel:+917538805407"><img src="https://img.shields.io/badge/Phone-%2B91%207538805407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+  <a href="https://www.linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-Jeslin%20J.%20P.-0B1020?style=for-the-badge&logo=linkedin&logoColor=3ED9C7" alt="LinkedIn" /></a>
+  <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-jeslin3379%40gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=3ED9C7" alt="Email" /></a>
+  <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/YouTube-%40Jeslin__14-0B1020?style=for-the-badge&logo=youtube&logoColor=3ED9C7" alt="YouTube" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeslin-star-14&label=Profile%20Views&color=3ed9c7&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jeslin-star-14?label=Followers&style=flat-square&color=7c5cff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-brightgreen?style=flat-square" alt="Availability" />
+  <a href="https://github.com/jeslin-star-14?tab=followers"><img src="https://img.shields.io/github/followers/jeslin-star-14?style=for-the-badge&logo=github&logoColor=7C5CFF&labelColor=0B1020&color=1B2142" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jeslin-star-14&label=PROFILE%20VIEWS&style=for-the-badge&color=1B2142&labelColor=0B1020" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Full Stack Developer and Software Engineer** with hands-on experience building responsive web applications, mobile applications, database-driven systems, and real-world client projects. As an active **freelancer**, I take projects from requirements and UI/UX design through backend integration, database implementation, testing, and deployment.
+I'm a **Full Stack Developer and freelancer** who builds and ships software across the whole development lifecycle:
 
-I design **RESTful APIs** and manage **Ubuntu backend servers over SSH**, and I run the programming YouTube channel **[code for programming](https://www.youtube.com/@Jeslin_14)**.
+<p align="center">
+  <b>Requirements → UI/UX Design → Frontend → Backend APIs → Database → Testing → Deployment</b>
+</p>
+
+My work covers responsive web applications, mobile applications, and database-driven systems. I design RESTful APIs and deploy applications to Ubuntu servers over SSH, taking projects from the first requirements discussion to a live production environment.
 
 | | |
-|---|---|
-| 🔭 **Currently** | Freelance full-stack projects, custom API development, scalable architectures |
-| 🎓 **Education** | B.Tech, Computer Science & Engineering, Karunya Institute of Technology and Sciences (2025 – 2029) |
-| 🎥 **Creator** | [code for programming](https://www.youtube.com/@Jeslin_14) on YouTube |
-| 💬 **Ask me about** | End-to-end app development, backend server setup, API integration |
-| 📍 **Based in** | Chennai, Tamil Nadu, India |
+|:--|:--|
+| **Current focus** | Freelance full-stack projects, API integration, and production deployment |
+| **Education** | B.Tech in Computer Science and Engineering, Karunya Institute of Technology and Sciences (2025 – 2029) |
+| **Technical interests** | Full-stack development, UI/UX design, REST APIs, mobile applications, database architecture, Linux servers |
+| **Freelance availability** | Open to freelance projects and collaborations |
+| **YouTube channel** | [youtube.com/@Jeslin_14](https://www.youtube.com/@Jeslin_14) |
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
+
+<table>
+  <tr>
+    <td width="22%"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" alt="Java, Python, C, C++" /><br />
+      <sub>Java · Python · C · C++</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=dark" alt="React, TypeScript, Tailwind CSS, HTML, CSS, JavaScript" /><br />
+      <sub>React · TypeScript / TSX · Tailwind CSS · HTML · CSS · JavaScript · Responsive Web Design · UI/UX Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python, Java" /><br />
+      <sub>Python · Java · RESTful API design and integration</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" alt="PostgreSQL, MongoDB, SQLite" /><br />
+      <sub>PostgreSQL · MongoDB · SQLite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Deployment and Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ubuntu,git,github&theme=dark" alt="Ubuntu, Git, GitHub" /><br />
+      <sub>Ubuntu · SSH · Git · GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,react,ts,tailwind,postgres,mongodb,ubuntu,git,github,html,css,js&perline=8" alt="Tech stack icons" />
+  <a href="https://github.com/jeslin-star-14"><img src="https://github-readme-stats.vercel.app/api?username=jeslin-star-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&icon_color=7C5CFF&text_color=EAE8F7" alt="GitHub profile statistics for jeslin-star-14" width="48%" /></a>
+  <a href="https://github.com/jeslin-star-14?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslin-star-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&text_color=EAE8F7" alt="Top programming languages for jeslin-star-14" width="48%" /></a>
 </p>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, Python, C, C++, TypeScript |
-| **Frontend** | React, Tailwind CSS, HTML, CSS, JavaScript |
-| **Backend & APIs** | Python, Java, RESTful API design |
-| **Databases** | PostgreSQL, MongoDB, SQLite |
-| **DevOps & Tools** | Ubuntu Server, SSH deployment, Git, GitHub |
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeslin-star-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslin-star-14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/jeslin-star-14"><img src="https://streak-stats.demolab.com/?user=jeslin-star-14&theme=tokyonight&hide_border=true&background=0B1020&ring=3ED9C7&fire=7C5CFF&currStreakLabel=3ED9C7&sideLabels=EAE8F7&currStreakNum=EAE8F7&sideNums=EAE8F7&dates=8D8EAE" alt="GitHub contribution streak for jeslin-star-14" width="70%" /></a>
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeslin-star-14&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <a href="https://github.com/jeslin-star-14"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jeslin-star-14&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph for jeslin-star-14" width="100%" /></a>
 </p>
-
-### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeslin-star-14&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <a href="https://github.com/jeslin-star-14?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jeslin-star-14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub profile trophies for jeslin-star-14" width="100%" /></a>
 </p>
-
-### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeslin-star-14&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+  <sub>These cards are rendered live by third-party services and reflect only the public data GitHub exposes for this account.</sub>
 </p>
 
----
+<details>
+<summary><sub>A card isn't loading?</sub></summary>
+<br />
 
-## 💼 Experience
+Third-party analytics services occasionally rate-limit or go offline. Refreshing usually fixes it. In the meantime, the same information is available directly on GitHub:
 
-| Role | Organization | Period |
-|---|---|---|
-| **Freelance Full Stack Engineer** | Self-employed | Ongoing |
-| **Java Full Stack Developer Intern** | CCS Info Tech | May 2026 |
-| **Mobile Application Developer Intern** | CodSoft | Feb 2026 – Mar 2026 |
+- [Public repositories](https://github.com/jeslin-star-14?tab=repositories)
+- [Contribution activity](https://github.com/jeslin-star-14?tab=overview)
+- [Followers](https://github.com/jeslin-star-14?tab=followers)
 
-- **Freelance:** Delivering custom web and mobile solutions, building API architectures, managing database implementations, and deploying applications for clients.
-- **CCS Info Tech:** Java full stack development, frontend/backend integration, debugging and testing in a professional environment.
-- **CodSoft:** Built mobile application components, implemented core functionality, and improved UI performance.
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## Professional Experience
 
-| Project | Description | Stack |
-|---|---|---|
-| **ARK Kitchen** | Real-world client web application with a Python backend and responsive UI/UX. Deployed to production on Ubuntu via SSH. | Python, UI/UX, Ubuntu, SSH |
-| **ER Hospital Scheduling System** | Database-driven scheduling with role-specific workflows for Doctors, Nurses, and Patients. | PostgreSQL |
-| **Rural Offline Learning Platform** | Smart India Hackathon proposal: offline-first learning for students with unreliable connectivity. | Offline-first design |
-| **Solar Cooker** | Solar cooker prototype with Arduino and programmed control logic. | Arduino, C++ |
-| **Galaxy Portfolio** | Animated portfolio with file upload and SQLite-backed storage. | HTML, CSS, JS, Node.js, SQLite |
+| Role | Organization | Period | Focus |
+|:--|:--|:--|:--|
+| **Freelance Full Stack Developer** | Independent | Ongoing | Building full-stack applications and responsive interfaces; API integration, database implementation, and deployment |
+| **Java Full Stack Developer Intern** | CCS Info Tech | May 2026 | Java full-stack development, frontend/backend integration, debugging, and testing |
+| **Mobile Application Developer Intern** | CodSoft | Feb 2026 – Mar 2026 | Mobile application components, interface development, and application functionality |
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-- Red Hat Linux Certification
-- Google Cloud Digital Leader
-- Cisco: Introduction to Cybersecurity
-- Cisco: HTML, CSS, JavaScript and Python
+<table>
+  <tr>
+    <td width="100%">
+
+### ARK Kitchen — Full Stack Application
+
+A real-world, client-focused full-stack product, built end to end: requirements, a Python backend, a responsive UI/UX-focused frontend, and production deployment on an Ubuntu server over SSH.
+
+![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=3ED9C7)
+![Responsive UI/UX](https://img.shields.io/badge/Responsive%20UI%2FUX-0B1020?style=flat-square&logoColor=3ED9C7&color=1B2142)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0B1020?style=flat-square&logo=ubuntu&logoColor=3ED9C7)
+![SSH Deployment](https://img.shields.io/badge/SSH%20Deployment-0B1020?style=flat-square&logo=gnometerminal&logoColor=7C5CFF)
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ER Hospital Scheduling System
+
+A hospital scheduling and management application with separate workflows and interfaces for **Doctors**, **Nurses**, and **Patients**, backed by a PostgreSQL database.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1020?style=flat-square&logo=postgresql&logoColor=3ED9C7)
+![Role-based workflows](https://img.shields.io/badge/Role--based%20workflows-0B1020?style=flat-square&color=1B2142)
+
+    </td>
+    <td width="50%" valign="top">
+
+### Rural Offline Learning Platform
+
+A Smart India Hackathon idea focused on improving access to education in rural areas with limited or unreliable internet connectivity, designed around **offline-first accessibility**.
+
+![Smart India Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-0B1020?style=flat-square&color=1B2142)
+![Offline-first](https://img.shields.io/badge/Offline--first-0B1020?style=flat-square&color=1B2142)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Solar Cooker
+
+An Arduino-based hardware project that combines physical components with programmed control logic.
+
+![Arduino](https://img.shields.io/badge/Arduino-0B1020?style=flat-square&logo=arduino&logoColor=3ED9C7)
+![Embedded control logic](https://img.shields.io/badge/Embedded%20control%20logic-0B1020?style=flat-square&color=1B2142)
+
+    </td>
+    <td width="50%" valign="top">
+
+### Personal Developer Portfolio
+
+A deployed personal portfolio website with a password-protected admin page for adding portfolio photos and certificates. Admin access is handled through API calls, and credentials or keys are intentionally not documented here.
+
+![Deployed](https://img.shields.io/badge/Deployed-0B1020?style=flat-square&color=1B2142)
+![Password-protected admin](https://img.shields.io/badge/Password--protected%20admin-0B1020?style=flat-square&color=1B2142)
+![API-driven](https://img.shields.io/badge/API--driven-0B1020?style=flat-square&color=1B2142)
+
+    </td>
+  </tr>
+</table>
+
+<!-- Repository and live-demo links are intentionally omitted until real URLs are available. -->
 
 ---
 
-## 🔀 Development Workflow
+## Certifications
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Red%20Hat-Linux%20Certification-0B1020?style=for-the-badge&logo=redhat&logoColor=3ED9C7" alt="Red Hat Linux Certification" />
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-0B1020?style=for-the-badge&logo=googlecloud&logoColor=3ED9C7" alt="Google Cloud Digital Leader" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-0B1020?style=for-the-badge&logo=cisco&logoColor=7C5CFF" alt="Cisco Introduction to Cybersecurity" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Cisco-HTML%2C%20CSS%2C%20JavaScript%20and%20Python-0B1020?style=for-the-badge&logo=cisco&logoColor=7C5CFF" alt="Cisco HTML, CSS, JavaScript and Python" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Development Workflow
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-gitGraph
-   commit id: "v1.0-init"
-   branch feature/api-server
-   checkout feature/api-server
-   commit id: "REST-API-Design"
-   commit id: "PostgreSQL-Schema"
-   commit id: "Ubuntu-SSH-Deploy"
-   checkout main
-   branch feature/frontend-ui
-   checkout feature/frontend-ui
-   commit id: "React-Tailwind-UI"
-   checkout main
-   merge feature/api-server id: "Merge-Backend"
-   merge feature/frontend-ui id: "Merge-Frontend"
-   commit id: "v2.0-Production-Release"
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#10142A','primaryTextColor':'#EAE8F7','primaryBorderColor':'#3ED9C7','lineColor':'#7C5CFF','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["Planning"] --> B["UI/UX"]
+    B --> C["Frontend"]
+    C --> D["Backend / API"]
+    D --> E["Database"]
+    E --> F["Testing"]
+    F --> G["Ubuntu Deployment"]
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
-  I'm open to freelance projects and collaborations. Reach out and let's build something scalable together.
+  Whether you're a recruiter, a fellow developer, or a client with an idea, I'd be glad to talk about <b>full-stack development</b>, <b>UI/UX design</b>, or a <b>freelance collaboration</b>.
 </p>
 
 <p align="center">
-  <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-3ed9c7?style=for-the-badge&logo=gmail&logoColor=black" alt="Hire me"/></a>
-  <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/></a>
+  <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-3ED9C7?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="Email Jeslin" /></a>
+  <a href="https://www.linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/jeslin-star-14"><img src="https://img.shields.io/badge/GitHub-jeslin--star--14-0B1020?style=for-the-badge&logo=github&logoColor=3ED9C7" alt="GitHub profile" /></a>
+  <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/YouTube-Subscribe-0B1020?style=for-the-badge&logo=youtube&logoColor=7C5CFF" alt="YouTube channel" /></a>
 </p>
 
+<!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:5B3FD6,100:1FA89A&height=120&section=footer&animation=twinkling" alt="Footer banner" width="100%" />
 </p>
