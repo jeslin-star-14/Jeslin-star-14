@@ -87,35 +87,20 @@ My work covers responsive web applications, mobile applications, and database-dr
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/jeslin-star-14"><img src="https://github-readme-stats.vercel.app/api?username=jeslin-star-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&icon_color=7C5CFF&text_color=EAE8F7" alt="GitHub profile statistics for jeslin-star-14" width="48%" /></a>
-  <a href="https://github.com/jeslin-star-14?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslin-star-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&text_color=EAE8F7" alt="Top programming languages for jeslin-star-14" width="48%" /></a>
+  <a href="https://github.com/jeslin-star-14"><img src="https://github-readme-stats.vercel.app/api?username=jeslin-star-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&icon_color=7C5CFF&text_color=EAE8F7" alt="GitHub profile statistics for jeslin-star-14" height="170" /></a>
+  &nbsp;
+  <a href="https://github.com/jeslin-star-14?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslin-star-14&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=3ED9C7&text_color=EAE8F7" alt="Top programming languages for jeslin-star-14" height="170" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeslin-star-14"><img src="https://streak-stats.demolab.com/?user=jeslin-star-14&theme=tokyonight&hide_border=true&background=0B1020&ring=3ED9C7&fire=7C5CFF&currStreakLabel=3ED9C7&sideLabels=EAE8F7&currStreakNum=EAE8F7&sideNums=EAE8F7&dates=8D8EAE" alt="GitHub contribution streak for jeslin-star-14" width="70%" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jeslin-star-14"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jeslin-star-14&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph for jeslin-star-14" width="100%" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jeslin-star-14?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jeslin-star-14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub profile trophies for jeslin-star-14" width="100%" /></a>
-</p>
-
-<p align="center">
-  <sub>These cards are rendered live by third-party services and reflect only the public data GitHub exposes for this account.</sub>
+  <a href="https://github.com/jeslin-star-14"><img src="https://streak-stats.demolab.com/?user=jeslin-star-14&theme=tokyonight&hide_border=true&background=0B1020&ring=3ED9C7&fire=7C5CFF&currStreakLabel=3ED9C7&sideLabels=EAE8F7&currStreakNum=EAE8F7&sideNums=EAE8F7&dates=8D8EAE" alt="GitHub contribution streak for jeslin-star-14" height="170" /></a>
 </p>
 
 <details>
 <summary><sub>A card isn't loading?</sub></summary>
 <br />
 
-Third-party analytics services occasionally rate-limit or go offline. Refreshing usually fixes it. In the meantime, the same information is available directly on GitHub:
-
-- [Public repositories](https://github.com/jeslin-star-14?tab=repositories)
-- [Contribution activity](https://github.com/jeslin-star-14?tab=overview)
-- [Followers](https://github.com/jeslin-star-14?tab=followers)
+These cards come from third-party services that occasionally rate-limit. Refreshing usually fixes it. The same data is available directly on GitHub: [repositories](https://github.com/jeslin-star-14?tab=repositories), [contribution activity](https://github.com/jeslin-star-14?tab=overview), and [followers](https://github.com/jeslin-star-14?tab=followers).
 
 </details>
 
@@ -247,10 +232,28 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-3ED9C7?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="Email Jeslin" /></a>
-  <a href="https://www.linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile" /></a>
-  <a href="https://github.com/jeslin-star-14"><img src="https://img.shields.io/badge/GitHub-jeslin--star--14-0B1020?style=for-the-badge&logo=github&logoColor=3ED9C7" alt="GitHub profile" /></a>
-  <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/YouTube-Subscribe-0B1020?style=for-the-badge&logo=youtube&logoColor=7C5CFF" alt="YouTube channel" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20work-3ED9C7?style=for-the-badge&labelColor=0B1020" alt="Open to freelance work" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:jeslin3379@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-3ED9C7?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="Email Jeslin" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/jeslin-jp-9652b8371"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/jeslin-star-14"><img src="https://img.shields.io/badge/GitHub-Follow-0B1020?style=for-the-badge&logo=github&logoColor=3ED9C7" alt="GitHub profile" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.youtube.com/@Jeslin_14"><img src="https://img.shields.io/badge/YouTube-Subscribe-0B1020?style=for-the-badge&logo=youtube&logoColor=7C5CFF" alt="YouTube channel" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1500&color=8D8EAE&center=true&vCenter=true&width=520&height=32&lines=Thanks+for+stopping+by.;Let%27s+build+something+solid+together." alt="Thanks for stopping by. Let's build something solid together." />
 </p>
 
 <!-- ============================ FOOTER ============================ -->
